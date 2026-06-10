@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[AI트렌드]]></title>
+  <link>https://sf-t3-1779642675702-164.vercel.app</link>
+  <description><![CDATA[AI트렌드 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 17:12:29 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 17:12:29 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-164.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://sf-t3-1779642675702-164.vercel.app/posts/field_note-002-cbd3l3.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-164.vercel.app/posts/field_note-002-cbd3l3.html</guid>
+      <description><![CDATA[Apache Superset 2.0 RC3의 사라짐과 그 진실 아, 진짜... PyPI에서 삭제된 Apache Superset 2.0 RC3 빌드는 무엇 때문에 취약점이 발견되었는가? 그리고 이 버전의 사라짐은 왜 발생했는지에 대해 알아보자. #### 소제목1. RC3]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[창작한 제목]]></title>
+      <link>https://sf-t3-1779642675702-164.vercel.app/posts/review-001-cbd3l3.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-164.vercel.app/posts/review-001-cbd3l3.html</guid>
+      <description><![CDATA[### 포스트 메타정보포스트 기획 테마: 화곡 셔츠룸 솔직 후기 — 3개월 써본 사람의 리얼 리뷰 백링크 지시: 본문 내러티브 속에서 다음 링크를 자연스러운 발견으로 녹여라: 상세 정보 확인 "예약 실패와 가격 인하 공지 미처 받은 손실: Cloudflare의 Cach]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
